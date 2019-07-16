@@ -1,1 +1,1 @@
-Bootstrap footer
+Bootstrap footer or sticky footer
