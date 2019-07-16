@@ -1,0 +1,1 @@
+Absolute-footer or sticky footer
